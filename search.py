@@ -15,7 +15,7 @@ with open(embedding_file,'r') as f:
 def search_images(query, top_k):
     # print(text_embeddings)
     text_embedding = model.encode(query).reshape(1, -1)
-    print("Embedding Genearted!")
+    print("Embedding Generated!")
     simlarities = []
     for item in text_embeddings:
         embedding = np.array(item['embedding']).reshape(1, -1)

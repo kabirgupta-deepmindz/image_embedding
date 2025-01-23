@@ -16,7 +16,8 @@ fi
 
 source venv/bin/activate
 pip3 install -r requirements.txt
-uvicorn server:app --reload
+pm2 delete Image_Embed
+pm2 start 'uvicorn server:app --port 7500 --host 0.0.0.0' -n Image_Embed
 
 
 
