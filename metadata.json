@@ -1,6 +1,74 @@
 [
     {
-        "image_file": "./images/image_1.png",
-        "description": "This is an image about the head of school"
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Admission-Aid/Admission/Admission-Aid-24-1440.png",
+        "description": " Students walking down the Student Center, Westhaver Park stairs at Curry College"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Admission-Aid/Admission/yvonne-and-friends-720.png",
+        "description": " Laughing Curry College students walk to class on campus"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Admission-Aid/Admission/adm-24b-720.png",
+        "description": " Curry College student ambassadors on their laptops"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Admission-Aid/Admission/adm-24c-720.png",
+        "description": " Curry College students on their laptops studying in the Stu Lounge"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/commitment-490.png",
+        "description": " Curry College students network with an employer at the Career Fair on campus"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Blocks/Microscope-Clip-2.png",
+        "description": " Curry student views a specimen through a microscope"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Blocks/soccer-400x400_1.png",
+        "description": " Women's soccer teammates celebrate together"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Before-Curry-22-409.png",
+        "description": " Students pose for a picture at Orientation"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/At-Curry-22-409.png",
+        "description": " A students works on his tablet in the Curry College ThinkTANK design studio"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/After-Curry-22-409.png",
+        "description": " A Curry College student receives her diploma"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Student-Life/Residence-Life/living-24-853.png",
+        "description": " Students hang out at Bell Residence Hall at Curry College"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Student-Life/Residence-Life/relay-23-1440.png",
+        "description": " Students participate in Relay for Life event at Curry College"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Student-Life/Residence-Life/compass-club-405.png",
+        "description": " Students happily enjoying each other's company"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Athletics/athletics-24-720.png",
+        "description": "Curry Colonels Women's Volleyball team celebrate a point"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Athletics/rugby-24-720.png",
+        "description": "The Curry College Men's Rugby team celebrates"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Athletics/fitness-center-720.png",
+        "description": "Students work out on the weight machines at the Curry College Fitness Center"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/Admission-Aid/SFS/40-5-stat-409.jpg",
+        "description": "Curry College student in class"
+    },
+    {
+        "image_file": "https://www.curry.edu/assets/Images/Homepage/About/Events/Homecoming/HCFW-23-720.png",
+        "description": "Students and alumni cheer on the Colonels Football team at Homecoming and Family Weekend"
     }
 ]
