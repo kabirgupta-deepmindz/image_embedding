@@ -1,5 +1,6 @@
 #!/bin/bash
 
+processName = Amity_Image_Embed
 echo "Start Script!"
 echo "Detect VENV"
 
@@ -16,8 +17,8 @@ fi
 
 source venv/bin/activate
 pip3 install -r requirements.txt
-pm2 delete Image_Embed
-pm2 start 'uvicorn server:app --port 7600 --host 0.0.0.0' -n Image_Embed
+pm2 delete ${processName}
+pm2 start 'uvicorn server:app --port 7600 --host 0.0.0.0' -n ${processName}
 
 
 
