@@ -17,8 +17,8 @@ fi
 
 source venv/bin/activate
 pip3 install -r requirements.txt
-pm2 delete ${processName}
-pm2 start 'uvicorn server:app --port 7600 --host 0.0.0.0' -n ${processName}
+pm2 delete Amity_Image_Embed
+pm2 start 'uvicorn server:app --port 7600 --host 0.0.0.0' -n Amity_Image_Embed
 
 
 
