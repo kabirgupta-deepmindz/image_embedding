@@ -7,7 +7,7 @@ pipeline {
 
     environment {
         ARCHIVE_NAME = 'image.tar.gz'
-        FOLDER_NAME = 'curry/image'
+        FOLDER_NAME = 'amity/image'
         DEMO_SERVER = 'demo.pharynxai.com'
     }
  
